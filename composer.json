@@ -1,0 +1,14 @@
+{
+    "name": "wagnercommsys/cc-bbb-api",
+    "description": "The bbb php library from the Big Blue Button project.",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Wagnercommsys",
+            "email": "admin@wagnercommsys.com"
+        }
+    ],
+    "require": {
+
+    }
+}
